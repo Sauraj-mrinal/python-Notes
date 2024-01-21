@@ -37,12 +37,23 @@ print(fruit[3])
 
 
 
+print ("""mrinal's "sauraj" """)
 
 
 
 
+list=[10,20,30,40] 
+print(list[-2])
+
+z = ["vani" , "pinku"]
+print(z *2)
 
 
+a="durga"
+b="durga"
+print(id(a))
+print(id(b))
+print(a is b) 
 
 
 
